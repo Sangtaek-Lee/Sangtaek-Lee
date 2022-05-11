@@ -1,4 +1,4 @@
-# <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="zoom:7%;" /> **Sangtaek Lee**
+# <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="7%" height="7%" /> **Sangtaek Lee**
 
 
 
